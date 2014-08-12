@@ -1,4 +1,2 @@
-hello_world
-===========
-
-Introductory Repository
+It is better to light a candle than curse the darkness.
+Eleanor Roosevelt
